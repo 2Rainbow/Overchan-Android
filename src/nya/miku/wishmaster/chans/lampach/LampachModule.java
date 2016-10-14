@@ -80,7 +80,7 @@ public class LampachModule extends AbstractWakabaModule {
     
     @Override
     public Drawable getChanFavicon() {
-        return ResourcesCompat.getDrawable(resources, R.drawable.favicon_lampach, null);
+        return ResourcesCompat.getDrawable(resources, R.drawable.favicon_cirno, null);
     }
     
     @Override
